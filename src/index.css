@@ -1,0 +1,33 @@
+.dancing-script{
+  font-family: 'Dancing Script Variable', cursive;
+}
+
+.rubrik{
+  font-family: 'Rubik Variable', sans-serif;
+}
+
+.kode-mono{
+  font-family: 'Kode Mono Variable', monospace;
+}
+
+.txt-clamp-1{
+  line-clamp: 1;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.txt-clamp-2{
+  line-clamp: 2;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.txt-justify{
+  text-align: justify;
+}
